@@ -1,0 +1,220 @@
+/* 1 createdAt:5/18/2022, 8:16:49 AM*/
+{
+	"_id" : ObjectId("62845e19ee2a13a092581ca9"),
+	"user_id" : 1,
+	"name" : "AAA",
+	"oct_15to30_2020" : "Present",
+	"Not yet completed" : [
+		{
+			"_id" : ObjectId("628624f3444bf50f11fd7a10"),
+			"user_id" : "13",
+			"name" : "AAA",
+			"month" : "November",
+			"task_submitted" : "Yes"
+		}
+	]
+},
+
+/* 2 createdAt:5/18/2022, 8:16:49 AM*/
+{
+	"_id" : ObjectId("62845e19ee2a13a092581caa"),
+	"user_id" : 2,
+	"name" : "BBB",
+	"oct_15to30_2020" : "Present",
+	"Not yet completed" : [
+		{
+			"_id" : ObjectId("628624f3444bf50f11fd7a05"),
+			"user_id" : "2",
+			"name" : "BBB",
+			"month" : "November",
+			"task_submitted" : "Yes"
+		}
+	]
+},
+
+/* 3 createdAt:5/18/2022, 8:16:49 AM*/
+{
+	"_id" : ObjectId("62845e19ee2a13a092581cab"),
+	"user_id" : 3,
+	"name" : "CCC",
+	"oct_15to30_2020" : "Absent",
+	"Not yet completed" : [
+		{
+			"_id" : ObjectId("628624f3444bf50f11fd7a06"),
+			"user_id" : "3",
+			"name" : "CCC",
+			"month" : "October",
+			"task_submitted" : "Yes"
+		}
+	]
+},
+
+/* 4 createdAt:5/18/2022, 8:16:49 AM*/
+{
+	"_id" : ObjectId("62845e19ee2a13a092581cac"),
+	"user_id" : 4,
+	"name" : "DDD",
+	"oct_15to30_2020" : "Present",
+	"Not yet completed" : [
+		{
+			"_id" : ObjectId("628624f3444bf50f11fd7a07"),
+			"user_id" : "4",
+			"name" : "DDD",
+			"month" : "December",
+			"task_submitted" : "Yes"
+		}
+	]
+},
+
+/* 5 createdAt:5/18/2022, 8:16:49 AM*/
+{
+	"_id" : ObjectId("62845e19ee2a13a092581cad"),
+	"user_id" : 5,
+	"name" : "EEE",
+	"oct_15to30_2020" : "Present",
+	"Not yet completed" : [
+		{
+			"_id" : ObjectId("628624f3444bf50f11fd7a08"),
+			"user_id" : "5",
+			"name" : "EEE",
+			"month" : "October",
+			"task_submitted" : "No"
+		}
+	]
+},
+
+/* 6 createdAt:5/18/2022, 8:16:49 AM*/
+{
+	"_id" : ObjectId("62845e19ee2a13a092581cae"),
+	"user_id" : 6,
+	"name" : "FFF",
+	"oct_15to30_2020" : "Present",
+	"Not yet completed" : [
+		{
+			"_id" : ObjectId("628624f3444bf50f11fd7a09"),
+			"user_id" : "6",
+			"name" : "FFF",
+			"month" : "November",
+			"task_submitted" : "Yes"
+		}
+	]
+},
+
+/* 7 createdAt:5/18/2022, 8:16:49 AM*/
+{
+	"_id" : ObjectId("62845e19ee2a13a092581caf"),
+	"user_id" : 7,
+	"name" : "GGG",
+	"oct_15to30_2020" : "Present",
+	"Not yet completed" : [
+		{
+			"_id" : ObjectId("628624f3444bf50f11fd7a0a"),
+			"user_id" : "7",
+			"name" : "GGG",
+			"month" : "October",
+			"task_submitted" : "Yes"
+		}
+	]
+},
+
+/* 8 createdAt:5/18/2022, 8:16:49 AM*/
+{
+	"_id" : ObjectId("62845e19ee2a13a092581cb0"),
+	"user_id" : 8,
+	"name" : "HHH",
+	"oct_15to30_2020" : "Absent",
+	"Not yet completed" : [
+		{
+			"_id" : ObjectId("628624f3444bf50f11fd7a0b"),
+			"user_id" : "8",
+			"name" : "HHH",
+			"month" : "December",
+			"task_submitted" : "Yes"
+		}
+	]
+},
+
+/* 9 createdAt:5/18/2022, 8:16:49 AM*/
+{
+	"_id" : ObjectId("62845e19ee2a13a092581cb1"),
+	"user_id" : 9,
+	"name" : "III",
+	"oct_15to30_2020" : "Present",
+	"Not yet completed" : [
+		{
+			"_id" : ObjectId("628624f3444bf50f11fd7a0c"),
+			"user_id" : "9",
+			"name" : "III",
+			"month" : "November",
+			"task_submitted" : "No"
+		}
+	]
+},
+
+/* 10 createdAt:5/18/2022, 8:16:49 AM*/
+{
+	"_id" : ObjectId("62845e19ee2a13a092581cb2"),
+	"user_id" : 10,
+	"name" : "JJJ",
+	"oct_15to30_2020" : "Present",
+	"Not yet completed" : [
+		{
+			"_id" : ObjectId("628624f3444bf50f11fd7a0d"),
+			"user_id" : "10",
+			"name" : "JJJ",
+			"month" : "October",
+			"task_submitted" : "Yes"
+		}
+	]
+},
+
+/* 11 createdAt:5/18/2022, 8:16:49 AM*/
+{
+	"_id" : ObjectId("62845e19ee2a13a092581cb3"),
+	"user_id" : 11,
+	"name" : "KKK",
+	"oct_15to30_2020" : "Present",
+	"Not yet completed" : [
+		{
+			"_id" : ObjectId("628624f3444bf50f11fd7a0e"),
+			"user_id" : "11",
+			"name" : "KKK",
+			"month" : "December",
+			"task_submitted" : "Yes"
+		}
+	]
+},
+
+/* 12 createdAt:5/18/2022, 8:16:49 AM*/
+{
+	"_id" : ObjectId("62845e19ee2a13a092581cb4"),
+	"user_id" : 12,
+	"name" : "LLL",
+	"oct_15to30_2020" : "Absent",
+	"Not yet completed" : [
+		{
+			"_id" : ObjectId("628624f3444bf50f11fd7a0f"),
+			"user_id" : "12",
+			"name" : "LLL",
+			"month" : "October",
+			"task_submitted" : "Yes"
+		}
+	]
+},
+
+/* 13 createdAt:5/18/2022, 8:16:49 AM*/
+{
+	"_id" : ObjectId("62845e19ee2a13a092581cb5"),
+	"user_id" : 13,
+	"name" : "AAa",
+	"oct_15to30_2020" : "Present",
+	"Not yet completed" : [
+		{
+			"_id" : ObjectId("628624f3444bf50f11fd7a04"),
+			"user_id" : "1",
+			"name" : "AAa",
+			"month" : "October",
+			"task_submitted" : "No"
+		}
+	]
+}
